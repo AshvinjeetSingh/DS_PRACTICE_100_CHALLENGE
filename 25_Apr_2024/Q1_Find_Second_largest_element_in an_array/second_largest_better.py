@@ -21,3 +21,7 @@ if __name__ == '__main__':
     arr = [1, 2, 4, 6, 7, 5]
     value=secondLargestElement(arr)
     print(value) 
+
+
+# Time Compexity:O(2n)
+# Space Complexity :O(1)
