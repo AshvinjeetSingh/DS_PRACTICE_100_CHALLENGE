@@ -19,4 +19,8 @@ if __name__== "__main__":
 		print(arr[item]," ",end="")
 
 
+# TimeComplexity:O(nlogn + n)
+# SpaceComplexity:O(n)
+
+
 
