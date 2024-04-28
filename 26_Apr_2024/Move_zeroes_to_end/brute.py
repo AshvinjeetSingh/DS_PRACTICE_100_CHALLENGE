@@ -18,8 +18,8 @@ if __name__ == "__main__":
 		print(item," ",end="")
 
 
-Time complexity:O(n)
-Space Complexity:O(n)
+# Time complexity:O(n)
+# Space Complexity:O(n)
 
 
 
