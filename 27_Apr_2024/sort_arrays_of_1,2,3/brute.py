@@ -34,6 +34,7 @@ if __name__ == "__main__":
 	arr=[0, 2, 1, 2, 0, 1]
 	n=len(arr)
 	ans = sortArray(arr,n)
+	print(sorted_keys)
 	for item in ans:
 		print(item," ",end="")
 
