@@ -24,3 +24,6 @@ if __name__ == "__main__":
 	ans=sortArray(arr,n)
 	for item in ans:
 		print(item," ",end="")
+
+# time complexity :O(n)
+# space complexity : O(1)
