@@ -23,5 +23,5 @@ if __name__ == '__main__':
 
 
 # Time complexity:O(n)
-# Space complexity:O(1)
+# Space complexity:O(n)
 
