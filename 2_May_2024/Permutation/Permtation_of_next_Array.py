@@ -29,3 +29,7 @@ if __name__ == "__main__":
     for it in ans:
         print(it, end=" ")
     print("]")
+
+    
+# Time complexity:O(3N)
+# Space Complexity:O(N) if reversed arr is considered other wise O(1)
